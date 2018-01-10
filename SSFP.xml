@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sequence Name= "SSFP">
+	<Procedure SSFP='1' />
+    <EchoTrain EchoTrain='1'/>
+	<T1W TE='20' TR='1000' />
+	<T2W TE='150' TR='4000' />
+ <MainLoop>
+  <RF Angle="90"></RF>
+ </MainLoop>
+</Sequence>
