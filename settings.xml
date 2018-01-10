@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<Tissue>
-	<Blood T1='1000' T2='50'/>
-	<Fat T1='3000' T2='20' />
-	<T1W TE='20' TR='1000' />
-	<T2W TE='150' TR='4000' />
-</Tissue>
