@@ -1,7 +1,35 @@
 # MRI-simulator
-MRI pulse sequence simulator(MATLAB) applied on shepp-logan phantom for Equipment course spring 2017 
+Cairo university
+faculty of engineering
+Biomedical engineering and systems department
 
-created by Hossam Eldin ALi, Saif Aldin Zayed, Bilal Ibrahim Hairab
 
-Submitted to:
-Dr Tamer Basha
+MRI Pulse sequence simulator using MATLAB
+
+
+Medical equipment(MRI) class project created by:
+Bilal Ibrahim Hairab 
+Hossam Eldin Ali
+Saif Aldin Zayed
+submitted to:
+	Dr Tamer Basha
+
+
+Applying the different pulse sequence algorithm on the Shepp-Logan phantom.
+
+Sequences used are:
+GRE 
+SE
+FSE
+SSFP
+With preparation procedures:
+T1 preparation
+T2 preparation
+Tagging
+
+Phantom variables can be modified from the XML file “settings.xml”, sequence variables can also be modified from XML files with the sequence name.
+
+
+
+
+  
